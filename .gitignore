@@ -1,0 +1,6 @@
+# Directories
+.idea/
+venv/
+
+# Files
+/my_api_key
